@@ -1,5 +1,5 @@
 You will find all lecture notes here that are mostly written in Jupyter Notebook where you will find example python scripts that you may later use in your homeworks and final projects.
-# Run on your laptop (required for grad students) or [Google Colab](https://mybinder.org/)(https://colab.research.google.com/))
+# Run on your laptop (required for grad students) or [Google Colab](https://colab.research.google.com/)
 ## Install conda environment
 ```bash
 cd ..
