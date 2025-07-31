@@ -1,5 +1,5 @@
 You will find all lecture notes here that are mostly written in Jupyter Notebook where you will find example python scripts that you may later use in your homeworks and final projects.
-# Run on your laptop or [binder](https://mybinder.org/)
+# Run on your laptop (required for grad students) or [Google Colab]([https://mybinder.org/](https://colab.research.google.com/))
 ## Install conda environment
 ```bash
 cd ..
@@ -13,4 +13,6 @@ on your laptop:
 ```bash
 jupyter lab
 ```
-on binder: TBD 
+on Google Colab:\
+You need a google account\
+The easiest way is to go File -> Open Notebook -> GitHub -> enter "https://github.com/ShuwenTan-PO/MARN-3060"
